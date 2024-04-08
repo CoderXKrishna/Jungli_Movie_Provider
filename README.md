@@ -119,7 +119,7 @@ restart - ʀᴇꜱᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ...
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/CoderXKrishna/Jungli_Movie_Provider&branch=main&name=Jungli_Movie_Provider&service_type=web&env[APP_ID]=&env[API_HASH]=&env[BOPT_TOKEN]=&env[DATABASE_URL]=&env[DATABASE_NAME]=&env[ADMINS]=&env[CHANNELS]=&env[LOG_CHANNEL])
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/CoderXKrishna/Jungli_Movie_Provider&branch=main&name=Jungli_Movie_Provider&service_type=web&env[APP_ID]=&env[API_HASH]=&env[BOT_TOKEN]=&env[DATABASE_URL]=&env[DATABASE_NAME]=&env[ADMINS]=&env[CHANNELS]=&env[LOG_CHANNEL])
 </details>
 
 <details><summary>Deploy To Render</summary>
